@@ -1,0 +1,7 @@
+﻿EventStore
+username : admin
+password : changeit
+
+*MediatR (inmemory message broker)
+
+*DTO'ları API tarafında kullanmak best practise'dir.

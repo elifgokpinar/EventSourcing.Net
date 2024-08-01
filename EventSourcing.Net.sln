@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcing.Net", "EventSourcing.Net\EventSourcing.Net.csproj", "{169203CA-DC7C-405F-947F-9D6304EC54D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcing.API", "EventSourcing.API\EventSourcing.API.csproj", "{BDBF801A-A0BC-479B-9ED4-8AB10C07AAD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{9A966157-2640-49D1-8549-9C01FC653CE2}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile.txt = Dockerfile.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169203CA-DC7C-405F-947F-9D6304EC54D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169203CA-DC7C-405F-947F-9D6304EC54D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169203CA-DC7C-405F-947F-9D6304EC54D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169203CA-DC7C-405F-947F-9D6304EC54D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBF801A-A0BC-479B-9ED4-8AB10C07AAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBF801A-A0BC-479B-9ED4-8AB10C07AAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBF801A-A0BC-479B-9ED4-8AB10C07AAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBF801A-A0BC-479B-9ED4-8AB10C07AAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC00B09B-2D7A-4A9F-BF93-6EA169222B9F}
+	EndGlobalSection
+EndGlobal
